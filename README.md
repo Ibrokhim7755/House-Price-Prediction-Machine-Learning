@@ -7,3 +7,5 @@
 # Random Forest Regressor!
 
 ![Screenshot (143)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/773a77b6-05a3-4a81-b62e-6717464bed5c)
+
+# Knn Neighbors Regressor
