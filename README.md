@@ -9,3 +9,6 @@
 ![Screenshot (143)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/773a77b6-05a3-4a81-b62e-6717464bed5c)
 
 # Knn Neighbors Regressor!
+
+![Screenshot (144)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/494fa50b-83ea-4d1b-a985-782932b00bd3)
+
