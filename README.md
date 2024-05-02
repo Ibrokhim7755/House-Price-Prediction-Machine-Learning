@@ -12,8 +12,7 @@
 
 ![Screenshot (144)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/494fa50b-83ea-4d1b-a985-782932b00bd3)
 
-# XGBost Regressor
-
+# XGBoost Regressor
 
 ![Screenshot (145)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/284e7207-324d-4ad0-ad03-f64ca8eb678b)
 
