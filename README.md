@@ -3,6 +3,8 @@
 **Learning Curves:**
 
 # Linear Regressor!
+![Screenshot (146)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/831d990f-0d9e-45ab-9653-c9ac99bbef59)
+
 # Decision Tree algorithm:
 ![Screenshot (142)](https://github.com/Ibrokhim7755/House-Price-Prediction-Machine-Learning/assets/89033710/e1f0c5b2-2ac0-4c12-9a06-6d4af2560144)
 
